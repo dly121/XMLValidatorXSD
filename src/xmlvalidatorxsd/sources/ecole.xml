@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Ecole nom ="ESGI">
+	<Promo nom="AL1">
+		<Eleves>
+			<Eleve id="1" prenom="Idriss"/>
+			<Eleve id="2" prenom="Mamadou"/>
+			<Eleve id="3" prenom="David"/>
+		</Eleves>
+	</Promo>
+	<Promo nom="AL2">
+		<Eleves>
+			<Eleve id="1" prenom="Amir"/>
+			<Eleve id="2" prenom="Jerome"/>
+		</Eleves>
+	</Promo>
+</Ecole>
